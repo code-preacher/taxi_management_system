@@ -1,0 +1,1 @@
+extract or unzip extract_here.zip in every folder found to enable css,images and other files visible for efficient view..thanks
